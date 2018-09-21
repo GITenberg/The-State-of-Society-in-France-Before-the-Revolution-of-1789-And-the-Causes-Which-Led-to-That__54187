@@ -1,5 +1,8 @@
 _repo: The-State-of-Society-in-France-Before-the-Revolution-of-1789-And-the-Causes-Which-Led-to-That__54187
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54187-h/images/cover.jpg
 creator:
   author:
     agent_name: Tocqueville, Alexis de
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/424
     wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54187#The-State-of-Society-in-France-Before-the-Revolution-of-1789-And-the-Causes-Which-Led-to-That_
 gutenberg_issued: '2017-02-17'
 gutenberg_type: Text
 identifiers:
